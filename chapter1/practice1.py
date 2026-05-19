@@ -1,0 +1,2 @@
+print("""A pome is a type of fleshy fruit produced by flowering plants in the subtribe Malinae of the family Rosaceae. It consists of a central core containing multiple seeds, which is surrounded by a tough membrane and an edible layer of flesh. Common examples of pome fruits include apples and pears.
+""")
