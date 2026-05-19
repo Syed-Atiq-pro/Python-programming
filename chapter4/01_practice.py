@@ -1,0 +1,10 @@
+fruits=[]
+f1=input("Enter the name of f1:")
+fruits.append(f1)
+f2=input("Enter the name of f2:")
+fruits.append(f2)
+f3=input("Enter the name of f3:")
+fruits.append(f3)
+f4=input("Enter the name of f4:")
+fruits.append(f4)
+print(fruits)
